@@ -5,7 +5,8 @@ excerpt: IT sessions with peer mentoring
 lead: Volunteer Centre Dundee
 website: http://www.volunteerdundee.org.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: March 2015
 end: June 2015
 award: £3148.40
@@ -25,6 +26,10 @@ Peer support to increase identified IT learning goals.
 ### Phase 1 March 2015
 
 Group sessions to assess current IT skills and goals
+
+progress to date - first we missed the march deadline. We realised that we had missed a satge in planning this project - namely - planning!
+We are currently recruiting peer mentors and drawing up a training shcedule covering confidecne building of both peer mentors and learners.
+the training of our new recruits will take place mid may, followed by recruitment of learners for the project whcih will lead us to our Phase 1 milestone.
 
 ### Phase 2 March 2015 
 
