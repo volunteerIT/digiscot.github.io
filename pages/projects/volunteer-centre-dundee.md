@@ -22,56 +22,32 @@ warning-end: DO NOT EDIT ABOVE THIS LINE
 
 ### Project description
 
-Peer support to increase identified IT learning goals.
+Volunteer With IT is a project designed to provide support to those who struggle with their current level of IT skills, especially where that impact on their ability to find employment. Our aim is to help improve the skills of individuals who have little experience with IT to become more involved with technology by providing one to one support with volunteer peer mentors.
+
+We provide a range of commonly used devices for learners including laptops, iPads, and Android tablets. Our learners can use and practice with these to develop their basic digital skills such as using social media to contact family and friends, browsing the web, applying for jobs, or anything else they feel would improve their lives.
 
 
 ## Project milestones
 
-### Phase 1 March 2015
+### Milestone 1
 
-Group sessions to assess current IT skills and goals
+Purchasing computer equipment for use by the learners.
 
-### Phase 2 March 2015 
+### Milestone 2
 
-Group sessions to look at matching peers with skills to the goals
+Recruiting and training a group of volunteer mentors.
 
-Each group member matched with suitable peer supporteer
+### Milestone 3
 
-### Phase 3 April 2015
+Group sessions to assess the current level of IT skills of our learners and identify their goals.
 
-Individual/paired sessions to progress individual learning
+### Milestone 4
 
-Increased confidence and skills shown by participants to identified goals
+Matching each learner with a peer mentor.
 
-### Phase 4 May 2015
+### Milestone 5
+One to one sessions between each learner-mentor pair to achieve their goals.
 
-Reassessment of goals and further goal setting
+### Milestone 6
+Reassessment of goals after a number of sessions to evaluate how the support is helping learners.
 
-Movement towards goal/achievement of goal
-
-
-## Evaluation
-
-This is where the project lead will share information about what was achieved and what was learned.
-
-### Outputs and outcomes
-
-Overall this project X, Y, Z.
-
-In terms of outputs we delivered A, B and C.
-
-In terms of outcomes for the people and groups we care about, this project has P, Q and R. We know this because J, K and L.
-
-### Lessons learned
-
-Things that worked well:
-
-1. Text
-2. Text
-3. Text
-
-Things that we would do differently next time:
-
-1. Text
-2. Text
-3. Text
